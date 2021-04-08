@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:cursive;
+}
+/* index.php*/
+h3
+{
+ color:white;	
+}
+h4
+{
+	color:black;
+}
+.mt-3
+{
+	width:300px;
+
+}
+.card
+{
+	width:300px;
+	
+}
+
+/*  User.php*/
+button{
+        background-color:black;
+       color:white;
+        transition: 1.5s;
+      }
+      button:hover{
+        
+        color: white;
+       
+      }
+      
+         
+
+ 
